@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Salty</h1>
+<h3 align="center">I'm an aspiring game developer and youtuber.</h3>
 
-<!--
-**HighPixel-Studios/HighPixel-Studios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [NodeJS](https://nodejs.org/en/)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning [Unity](https://unity.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎮 Manager of [CubeSociety](https://www.cubesociety.online)
+
+- ☕ **CubeSociety** is currently been worked on!
+
+- 🍕 I upload content and stream on [YouTube](https://www.youtube.com/channel/UCPv9skaJDU2hczo1db1pz0A)
+
+- 📝 I code in [JavaScript](https://www.javascript.com/) a lot
+
+- 💬 Ask me about GameDev & Coding
+
+- ⚡ Longest Project: [PewPew: Battle Royale](https://scratch.mit.edu/projects/235875486/)
