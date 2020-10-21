@@ -17,7 +17,26 @@
 
 - ⚡ Longest Project: [PewPew: Battle Royale](https://scratch.mit.edu/projects/235875486/)
 
+---
 
-<p align="center">
-<a href="https://www.youtube.com/highpixelstudios" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="HighPixel_Studios" height="30" width="30" /></a>
-</p>
+### Connect with me:
+
+[<img align="left" alt="highpixelstudios.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="HighPixel_Studios | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="HighPixel_Studios | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HighPixel-Studios&show_icons=true&hide_border=true" />
+
+</details>
+
+
+[website]: https://highpixelstudios.tk
+[youtube]: https://youtube.com/highpixelstudios
+[instagram]: https://instagram.com/highpixel_studios_
