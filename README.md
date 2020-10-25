@@ -15,7 +15,7 @@
 
 - 💬 Ask me about GameDev & Coding
 
-- ⚡ Longest Project: [PewPew: Battle Royale](https://scratch.mit.edu/projects/235875486/)
+- ⚡ Longest Project: [PewPew: Battle Royale!](https://scratch.mit.edu/projects/235875486/)
 
 ---
 
