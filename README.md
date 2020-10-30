@@ -21,7 +21,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="highpixelstudios.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="smoll.ga" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="HighPixel_Studios | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="HighPixel_Studios | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -37,6 +37,6 @@
 </details>
 
 
-[website]: https://highpixelstudios.tk
+[website]: https://smoll.ga
 [youtube]: https://youtube.com/highpixelstudios
 [instagram]: https://instagram.com/highpixel_studios_
