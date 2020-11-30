@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Salty</h1>
+<h1 align="center">Hi 👋, I'm Saltyy</h1>
 <h3 align="center">I'm an aspiring game developer and youtuber.</h3>
 
 - 🔭 I’m currently working on [NodeJS](https://nodejs.org/en/)
