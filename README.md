@@ -7,7 +7,7 @@
 
 - 🎮 Manager of [CubeSociety](https://www.cubesociety.online)
 
-- ☕ **CubeSociety** is currently been worked on!
+- ☕ **SaltyMC** is currently been worked on!
 
 - 🍕 I upload content and stream on [YouTube](https://www.youtube.com/channel/UCPv9skaJDU2hczo1db1pz0A)
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about GameDev & Coding
 
-- ⚡ Longest Project: [PewPew: Battle Royale!](https://scratch.mit.edu/projects/235875486/)
+- ⚡ Longest Project: **PewPew: Battle Royale!**
 
 ---
 
